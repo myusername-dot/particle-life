@@ -1,6 +1,13 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/hunar4321/life_code)
 ![GitHub](https://img.shields.io/github/license/hunar4321/life_code)
 
+# New:
+```diff
++ Second rule of particle interaction in 3d
++ Recording video in 3d
+```
+-----------------------------------------------
+
 # Particle Life Simulation
 A simple program to simulate primitive Artificial Life using simple rules of attraction or repulsion among atom-like particles, producing complex self-organzing life-like patterns. Excluding the GUI elements, the code is less than a page. The video tutorial and walkthrough are available below.
 
