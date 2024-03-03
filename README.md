@@ -1,7 +1,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/hunar4321/life_code)
 ![GitHub](https://img.shields.io/github/license/hunar4321/life_code)
 
-# New:
+### New:
 - Second rule of particle interaction in 3d
 - Recording video in 3d
 -----------------------------------------------
